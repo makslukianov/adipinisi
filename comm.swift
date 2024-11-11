@@ -1,0 +1,3 @@
+MyView()
+    .clipped()
+    .clipShape(Rectangle())
